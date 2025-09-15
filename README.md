@@ -59,5 +59,7 @@ Cross-reference IPs using the below websites:
 -VirusTotal  
 -IPinfo.io  
 
+## Notes
+1.Configure firewalls to protect the system
 
 #### Refer to the screenshots uploaded for better understanding
