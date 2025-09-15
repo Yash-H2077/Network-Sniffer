@@ -58,3 +58,6 @@ tshark -r pcap/capture.pcap -Y 'http.request.method == "POST"' -T fields -e http
 Cross-reference IPs using the below websites:  
 -VirusTotal  
 -IPinfo.io  
+
+
+#### Refer to the screenshots uploaded for better understanding
